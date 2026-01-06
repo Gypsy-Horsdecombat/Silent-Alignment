@@ -1,0 +1,33 @@
+{
+  "run_id": "run_20260106_100509_60849e42",
+  "created_utc": "2026-01-06T10:05:09Z",
+  "config": {
+    "model_a": "gpt-4.1-mini",
+    "model_b": "gpt-4.1-mini",
+    "embedding_model": "text-embedding-3-large",
+    "temperature_a": 0.7,
+    "temperature_b": 0.7,
+    "max_tokens": 512,
+    "epsilon": 0.8,
+    "tau": 0.6,
+    "num_permutations": 300,
+    "seed": 42,
+    "output_dir": "results_silent_alignment_v2_2",
+    "tasks_file": "Tasks.txt",
+    "system_prompt_a": "You are Observer A. Answer clearly, analytically, and concisely.",
+    "system_prompt_b": "You are Observer B. Answer clearly, analytically, and concisely.",
+    "request_retries": 6,
+    "request_backoff_base": 1.5,
+    "request_backoff_jitter": 0.25,
+    "cache_dirname": "_cache",
+    "save_permutation_counts": true
+  },
+  "epsilon_sweep": [
+    0.7,
+    0.75,
+    0.8,
+    0.85,
+    0.9
+  ],
+  "notes": "v2.2 adds caching, retries, richer plots, csv exports. Core logic unchanged."
+}

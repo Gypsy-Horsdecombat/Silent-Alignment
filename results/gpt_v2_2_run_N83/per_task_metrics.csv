@@ -1,0 +1,84 @@
+task_index,seed_a,seed_b,semantic,surface,silent,task
+0,42,43,0.9744994044303894,0.13715046604527298,1,[tech] Explain why TCP congestion control uses additive increase and multiplicative decrease.
+1,44,45,0.9601556658744812,0.10772626931567329,1,[tech] Why do modern operating systems separate user space from kernel space?
+2,46,47,0.9613696932792664,0.22617534942820838,1,[tech] Explain the trade-offs between optimistic and pessimistic concurrency control.
+3,48,49,0.9771122932434082,0.24039517014270034,1,[tech] Why are hash tables typically faster than balanced trees for key-value lookup?
+4,50,51,0.9607087969779968,0.12098188194038574,1,[tech] Explain why eventual consistency is acceptable for some distributed systems but not others.
+5,52,53,0.98151034116745,0.23208818126148192,1,[tech] Why do modern CPUs use multiple cache levels instead of a single large cache?
+6,54,55,0.8900778293609619,0.0431266846361186,1,[tech] Explain the difference between horizontal and vertical scaling in system design.
+7,56,57,0.9694862365722656,0.05263157894736842,1,[tech] Why is idempotency important in API design?
+8,58,59,0.952459454536438,0.10603418207185211,1,[tech] Explain the trade-offs between synchronous and asynchronous communication.
+9,60,61,0.9554206132888794,0.4187380497131931,1,[tech] Why do garbage-collected languages still allow memory leaks?
+10,62,63,0.9430649876594543,0.12356979405034325,1,[tech] Explain the trade-offs between monolithic and microservice architectures.
+11,64,65,0.976186215877533,0.2140641158221303,1,[tech] Why is backpressure important in streaming or event-driven systems?
+12,66,67,0.8379454016685486,0.04737384140061792,1,[tech] Explain the difference between symmetric and asymmetric encryption.
+13,68,69,0.9902689456939697,0.6572614107883817,0,[science] Why does increasing temperature generally increase the rate of chemical reactions?
+14,70,71,0.9557850956916809,0.15204678362573099,1,[science] Explain how natural selection can lead to increased complexity over time.
+15,72,73,0.9344232082366943,0.15725009877518767,1,[science] Why do planets form in disks around young stars?
+16,74,75,0.9723632335662842,0.16765755053507728,1,[science] Explain why antibiotics are effective against bacteria but not viruses.
+17,76,77,0.9787783026695251,0.34545454545454546,1,[science] Why does genetic diversity improve a population’s resilience to environmental change?
+18,78,79,0.9666862487792969,0.41841004184100417,1,[science] Why does the speed of light remain constant for all observers?
+19,80,81,0.9490001201629639,0.16111314536799706,1,[science] Explain how plate tectonics contributes to earthquakes and volcanoes.
+20,82,83,0.9653500318527222,0.15024390243902438,1,[science] Why do ecosystems often exhibit tipping points?
+21,84,85,0.952522873878479,0.25064466219700876,1,[science] Explain how feedback loops regulate biological systems.
+22,86,87,0.889897882938385,0.16243654822335024,1,[science] Why does atmospheric pressure decrease with altitude?
+23,88,89,0.9495345950126648,0.17607223476297967,1,[science] Why do stars eventually exhaust their nuclear fuel?
+24,90,91,0.9494751691818237,0.17771883289124668,1,[science] Explain how the greenhouse effect warms a planet.
+25,92,93,0.9701534509658813,0.10623946037099494,1,[science] Why do many physical systems exhibit power-law behavior?
+26,94,95,0.9466356635093689,0.29880239520958085,1,[science] Explain how neurons transmit signals electrically and chemically.
+27,96,97,0.9541401267051697,0.096,1,[science] Why does entropy tend to increase in closed systems?
+28,98,99,0.944035530090332,0.1519422481952561,1,[math] Why does the harmonic series diverge?
+29,100,101,0.9589962363243103,0.3488865323435843,1,[math] Explain the difference between countable and uncountable infinity.
+30,102,103,0.9537421464920044,0.45184847101780007,1,[math] Why is the square root of 2 irrational?
+31,104,105,0.9293344020843506,0.13217499224325163,1,[math] Why does the integral test determine convergence for certain infinite series?
+32,106,107,0.9738078117370605,0.2706953642384106,1,[math] Explain why every continuous function on a closed interval attains a maximum and minimum.
+33,108,109,0.9581810235977173,0.213070115724983,1,[math] Why does changing the order of summation affect some infinite series but not others?
+34,110,111,0.8842186331748962,0.08883647798742138,1,"[math] Explain the difference between injective, surjective, and bijective functions."
+35,112,113,0.9443358778953552,0.2748763056624519,1,[math] Why does the pigeonhole principle guarantee certain outcomes in finite sets?
+36,114,115,0.9445340037345886,0.16181745715424473,1,[math] Explain why the diagonalization argument proves the uncountability of the real numbers.
+37,116,117,0.9459160566329956,0.09788519637462235,1,[math] Why does the law of large numbers not guarantee convergence for every sequence?
+38,118,119,0.9241400957107544,0.2180376610505451,1,[math] Explain why some equations have no solutions in certain number systems.
+39,120,121,0.9659358263015747,0.1216,1,[math] Why does symmetry simplify the solution of many mathematical problems?
+40,122,123,0.903514564037323,0.06747404844290658,1,[logic] Explain why a valid argument can have a false conclusion.
+41,124,125,0.9212719798088074,0.10377358490566038,1,[logic] Why does affirming the consequent constitute a logical fallacy?
+42,126,127,0.9609625935554504,0.2459425717852684,1,[logic] Explain the difference between deductive and inductive reasoning.
+43,128,129,0.9494262933731079,0.3387372013651877,1,[logic] Why can a set of premises be individually plausible yet jointly inconsistent?
+44,130,131,0.9374310374259949,0.11216216216216217,1,[logic] Explain why some paradoxes arise from self-reference.
+45,132,133,0.8888067603111267,0.15315315315315314,1,[logic] Why does a contradiction allow any conclusion to be derived in classical logic?
+46,134,135,0.951454222202301,0.3068181818181818,1,[logic] Explain the difference between necessary and sufficient conditions.
+47,136,137,0.9348621964454651,0.15502958579881657,1,[logic] Why does modus tollens preserve logical validity?
+48,138,139,0.9446578025817871,0.0649452269170579,1,[logic] Explain how truth tables are used to evaluate logical arguments.
+49,140,141,0.9577893614768982,0.11924119241192412,1,[logic] Why do some logical systems reject the law of excluded middle?
+50,142,143,0.9705057740211487,0.18160377358490565,1,[logic] Why does circular reasoning fail to provide justification?
+51,144,145,0.9618827104568481,0.13225991949396204,1,[logic] Explain the difference between validity and soundness in logical arguments.
+52,146,147,0.9171505570411682,0.11786038077969176,1,[logic] Why can adding premises sometimes weaken an argument?
+53,148,149,0.9231335520744324,0.18067226890756302,1,[logic] Explain how counterexamples are used to refute universal claims.
+54,150,151,0.9944568276405334,0.86002886002886,0,[general] Explain the difference between explanation and description.
+55,152,153,0.9350875020027161,0.3828647925033467,1,[general] Why can two people interpret the same information differently?
+56,154,155,0.9342437982559204,0.28404344193817876,1,[general] Explain the difference between correlation and causation.
+57,156,157,0.9601361751556396,0.16878612716763006,1,[general] Why are analogies useful for understanding complex ideas?
+58,158,159,0.9332259893417358,0.06153846153846154,1,[general] Explain the difference between abstraction and simplification.
+59,160,161,0.9573533535003662,0.14986376021798364,1,[general] Explain the difference between a model and a theory.
+60,162,163,0.916678786277771,0.08458390177353342,1,[general] Why do simplifying assumptions help reasoning even when they are false?
+61,164,165,0.9576245546340942,0.1791907514450867,1,[general] Explain the difference between signal and noise.
+62,166,167,0.9323768615722656,0.08468677494199536,1,[general] Explain the difference between a framework and a methodology.
+63,168,169,0.9693587422370911,0.8316151202749141,0,[general] Explain the difference between precision and accuracy.
+64,170,171,0.9032808542251587,0.19444444444444445,1,[general] Why can increasing detail sometimes reduce understanding?
+65,172,173,0.857267439365387,0.14797687861271677,1,[general] Explain the difference between a hypothesis and a prediction.
+66,174,175,0.9829980134963989,0.23325062034739455,1,[general] Why do categories help reasoning but also introduce errors?
+67,176,177,0.8879567384719849,0.14713896457765668,1,[general] Explain the difference between context and content.
+68,178,179,0.918560802936554,0.14465753424657535,1,[ethics] Why can two people agree on the facts of a situation but disagree about what is morally right?
+69,180,181,0.9282601475715637,0.21791320406278855,1,[ethics] Explain the difference between moral responsibility and causal responsibility.
+70,182,183,0.9368032217025757,0.10514414923685698,1,[ethics] Why do intentions matter in many moral judgments?
+71,184,185,0.9287922382354736,0.06845965770171149,1,[ethics] Explain the difference between fairness and equality.
+72,186,187,0.9212744235992432,0.16615384615384615,1,[ethics] Why can following a rule sometimes lead to an unethical outcome?
+73,188,189,0.9685700535774231,0.2339862361037586,1,[ethics] Explain the difference between ethical dilemmas and moral uncertainty.
+74,190,191,0.9766566753387451,0.16953528399311532,1,[ethics] Why do moral norms change over time within societies?
+75,192,193,0.9572516679763794,0.10668047643707923,1,[ethics] Explain the difference between impartiality and empathy in moral reasoning.
+76,194,195,0.9486818909645081,0.10988037217545414,1,[ethics] Why can moral rules conflict with each other?
+77,196,197,0.9439156651496887,0.23065693430656933,1,[ethics] Explain the difference between moral obligation and moral aspiration.
+78,198,199,0.9562768936157227,0.06827084499160604,1,[ethics] Explain the difference between moral justification and moral explanation.
+79,200,201,0.9117026925086975,0.05110896817743491,1,[ethics] Why do outcomes matter in some ethical evaluations but not others?
+80,202,203,0.9707462191581726,0.3760552570990023,1,[ethics] Explain the difference between moral disagreement and moral error.
+81,204,205,0.9287394285202026,0.22758620689655173,1,[ethics] Why can ethical reasoning involve trade-offs without clear right answers?
+82,206,207,0.9232364892959595,0.22281639928698752,1,[ethics] Explain the difference between moral permissibility and moral endorsement.
