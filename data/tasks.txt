@@ -1,0 +1,89 @@
+[tech] Explain why TCP congestion control uses additive increase and multiplicative decrease.
+[tech] Why do modern operating systems separate user space from kernel space?
+[tech] Explain the trade-offs between optimistic and pessimistic concurrency control.
+[tech] Why are hash tables typically faster than balanced trees for key-value lookup?
+[tech] Explain why eventual consistency is acceptable for some distributed systems but not others.
+[tech] Why do modern CPUs use multiple cache levels instead of a single large cache?
+[tech] Explain the difference between horizontal and vertical scaling in system design.
+[tech] Why is idempotency important in API design?
+[tech] Explain the trade-offs between synchronous and asynchronous communication.
+[tech] Why do garbage-collected languages still allow memory leaks?
+[tech] Explain the trade-offs between monolithic and microservice architectures.
+[tech] Why is backpressure important in streaming or event-driven systems?
+[tech] Explain the difference between symmetric and asymmetric encryption.
+
+[science] Why does increasing temperature generally increase the rate of chemical reactions?
+[science] Explain how natural selection can lead to increased complexity over time.
+[science] Why do planets form in disks around young stars?
+[science] Explain why antibiotics are effective against bacteria but not viruses.
+[science] Why does genetic diversity improve a population’s resilience to environmental change?
+[science] Why does the speed of light remain constant for all observers?
+[science] Explain how plate tectonics contributes to earthquakes and volcanoes.
+[science] Why do ecosystems often exhibit tipping points?
+[science] Explain how feedback loops regulate biological systems.
+[science] Why does atmospheric pressure decrease with altitude?
+[science] Why do stars eventually exhaust their nuclear fuel?
+[science] Explain how the greenhouse effect warms a planet.
+[science] Why do many physical systems exhibit power-law behavior?
+[science] Explain how neurons transmit signals electrically and chemically.
+[science] Why does entropy tend to increase in closed systems?
+
+[math] Why does the harmonic series diverge?
+[math] Explain the difference between countable and uncountable infinity.
+[math] Why is the square root of 2 irrational?
+[math] Why does the integral test determine convergence for certain infinite series?
+[math] Explain why every continuous function on a closed interval attains a maximum and minimum.
+[math] Why does changing the order of summation affect some infinite series but not others?
+[math] Explain the difference between injective, surjective, and bijective functions.
+[math] Why does the pigeonhole principle guarantee certain outcomes in finite sets?
+[math] Explain why the diagonalization argument proves the uncountability of the real numbers.
+[math] Why does the law of large numbers not guarantee convergence for every sequence?
+[math] Explain why some equations have no solutions in certain number systems.
+[math] Why does symmetry simplify the solution of many mathematical problems?
+
+[logic] Explain why a valid argument can have a false conclusion.
+[logic] Why does affirming the consequent constitute a logical fallacy?
+[logic] Explain the difference between deductive and inductive reasoning.
+[logic] Why can a set of premises be individually plausible yet jointly inconsistent?
+[logic] Explain why some paradoxes arise from self-reference.
+[logic] Why does a contradiction allow any conclusion to be derived in classical logic?
+[logic] Explain the difference between necessary and sufficient conditions.
+[logic] Why does modus tollens preserve logical validity?
+[logic] Explain how truth tables are used to evaluate logical arguments.
+[logic] Why do some logical systems reject the law of excluded middle?
+[logic] Why does circular reasoning fail to provide justification?
+[logic] Explain the difference between validity and soundness in logical arguments.
+[logic] Why can adding premises sometimes weaken an argument?
+[logic] Explain how counterexamples are used to refute universal claims.
+
+[general] Explain the difference between explanation and description.
+[general] Why can two people interpret the same information differently?
+[general] Explain the difference between correlation and causation.
+[general] Why are analogies useful for understanding complex ideas?
+[general] Explain the difference between abstraction and simplification.
+[general] Explain the difference between a model and a theory.
+[general] Why do simplifying assumptions help reasoning even when they are false?
+[general] Explain the difference between signal and noise.
+[general] Explain the difference between a framework and a methodology.
+[general] Explain the difference between precision and accuracy.
+[general] Why can increasing detail sometimes reduce understanding?
+[general] Explain the difference between a hypothesis and a prediction.
+[general] Why do categories help reasoning but also introduce errors?
+[general] Explain the difference between context and content.
+
+[ethics] Why can two people agree on the facts of a situation but disagree about what is morally right?
+[ethics] Explain the difference between moral responsibility and causal responsibility.
+[ethics] Why do intentions matter in many moral judgments?
+[ethics] Explain the difference between fairness and equality.
+[ethics] Why can following a rule sometimes lead to an unethical outcome?
+[ethics] Explain the difference between ethical dilemmas and moral uncertainty.
+[ethics] Why do moral norms change over time within societies?
+[ethics] Explain the difference between impartiality and empathy in moral reasoning.
+[ethics] Why can moral rules conflict with each other?
+[ethics] Explain the difference between moral obligation and moral aspiration.
+[ethics] Explain the difference between moral justification and moral explanation.
+[ethics] Why do outcomes matter in some ethical evaluations but not others?
+[ethics] Explain the difference between moral disagreement and moral error.
+[ethics] Why can ethical reasoning involve trade-offs without clear right answers?
+[ethics] Explain the difference between moral permissibility and moral endorsement.
+
